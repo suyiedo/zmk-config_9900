@@ -100,7 +100,7 @@
             compatible = "zmk,behavior-tap-dance";
             #binding-cells = <0>;
             tapping-term-ms = <250>;
-            bindings = <&to 0>, <&to SETTINGS>;
+            bindings = <&sk LSHFT>, <&to SETTINGS>;
         };
 
         LETTER_L: tap_dance_9 {
