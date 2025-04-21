@@ -100,7 +100,7 @@
             compatible = "zmk,behavior-tap-dance";
             #binding-cells = <0>;
             tapping-term-ms = <250>;
-            bindings = <&sk LSHFT>, <&to SETTINGS>;
+            bindings = <&kp LSHFT>, <&to SETTINGS>;
         };
 
         LETTER_L: tap_dance_9 {
@@ -183,7 +183,7 @@
             tapping-term-ms = <200>;
             quick-tap-ms = <125>;
             require-prior-idle-ms = <125>;
-            bindings = <&mkp >, <&mkp >;
+            bindings = <&mkp>, <&mkp>;
         };
 
         mdrag_clk: behavior_mdrag_clk {
