@@ -221,7 +221,7 @@
                               \      aA        |       0        |                    SPACE                  |          SYM          |         aA    /
                                 -------------------------------------------------------------------------------------------------------------------
         */
-                 		&mou M5 M4														&mou M4 M5
+                 		&mou M5 M4														&mou M5 M4
 
 		        &LEFTUPRIGHTDOWN			&mkp MCLK		&CLCK_DRG_SCRLL			&mkp RCLK		 	&RIGHTDOWNLEFTUP
 
