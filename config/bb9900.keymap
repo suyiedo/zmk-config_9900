@@ -221,7 +221,7 @@
                               \      aA        |       0        |                    SPACE                  |          SYM          |         aA    /
                                 -------------------------------------------------------------------------------------------------------------------
         */
-                 		&mkp LCLK														&mkp LCLK 
+                 		&RIGHTDOWNLEFTUP														&RIGHTDOWNLEFTUP
 
 		        &mkp LCLK			&mkp MCLK		&CLCK_DRG_SCRLL			&mkp RCLK		 	&mkp LCLK
 
