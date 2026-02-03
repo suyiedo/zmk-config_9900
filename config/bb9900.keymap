@@ -221,9 +221,9 @@
                               \      aA        |       0        |                    SPACE                  |          SYM          |         aA    /
                                 -------------------------------------------------------------------------------------------------------------------
         */
-                 		&LEFTUPRIGHTDOWN									&RIGHTDOWNLEFTUP 
+                 		&mou MB5 MB4														&mou MB5 MB4 
 
-		        &mkp  LCLK			&mkp MCLK		&CLCK_DRG_SCRLL			&mkp RCLK		 	&mou MB5 MB4
+		        &LEFTUPRIGHTDOWN			&mkp MCLK		&CLCK_DRG_SCRLL			&mkp RCLK		 	&RIGHTDOWNLEFTUP
 
     &kp Q		&kp W      	  &kp E		&kp R     	&kp T		&kp Y		&kp U		&kp I		&kp O		     &kp P
     &kp A		&kp S      	  &kp D		&kp F     	&kp G		&kp H		&kp J		&kp K		&kp L         	     &kp BSPC
